@@ -1,4 +1,4 @@
-#  Projeto Web — HTML, CSS e JavaScript
+#  Projeto Web — Next com  HTML, CSS e JavaScript
 
 ##  Descrição
 Este é um projeto web desenvolvido utilizando **HTML, CSS e Typescript**, com foco em simplicidade, organização e funcionamento estável.
