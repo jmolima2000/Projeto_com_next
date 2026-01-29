@@ -1,7 +1,7 @@
 #  Projeto Web — HTML, CSS e JavaScript
 
 ##  Descrição
-Este é um projeto web desenvolvido utilizando **HTML, CSS e JavaScript puro**, com foco em simplicidade, organização e funcionamento estável.
+Este é um projeto web desenvolvido utilizando **HTML, CSS e Typescript**, com foco em simplicidade, organização e funcionamento estável.
 
 Atualmente, o projeto encontra-se **funcional** e **atendendo aos requisitos propostos**, portanto a prioridade é **manter a estabilidade**, evitando alterações que possam gerar erros inesperados.
 
